@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sian! 👋
+- :calendar: I’m new to GitHub and coding, excited to begin training with Northcoders on November 28th!
+- :two_hearts: I am a huge fan of Arsenal, Taylor Swift and McFly.
+- :thumbsup: I will update this when I know what I'm doing a little more!
+
 
 <!--
 **siandaniel/siandaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
