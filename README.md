@@ -1,6 +1,5 @@
 ### Hi, I'm Sian! 👋
 - :calendar: I’m new to GitHub and coding, excited to begin training with Northcoders on November 28th!
-- :two_hearts: I am a huge fan of Arsenal, Taylor Swift and McFly.
 - :thumbsup: I will update this when I know what I'm doing a little more!
 
 
